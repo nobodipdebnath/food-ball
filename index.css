@@ -1,0 +1,15 @@
+.niconne{
+    font-family: "Niconne", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.poppins {
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.box{
+    box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.15);
+    background: rgb(255, 255, 255);
+}
+  
